@@ -1,4 +1,6 @@
-## Hi there 👋
+## Wolcome to my profile
+
+I am currently studying on my 2nd year master's degree  in Computer Science.
 
 <!--
 **Isio-19/Isio-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
