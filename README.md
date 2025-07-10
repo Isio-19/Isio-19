@@ -1,6 +1,8 @@
-## Wolcome to my profile
+## Welcome to my profile
 
 I am currently studying on my 2nd year master's degree  in Computer Science.
+
+On this profile, you'll be able to find the various projects I have done during university and some of my personnal projects.
 
 <!--
 **Isio-19/Isio-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
